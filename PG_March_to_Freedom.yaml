@@ -1,0 +1,61 @@
+---
+name: Persian Gulf - March to Freedom
+authors: NovemberCharlieHotel
+description: <p>A lightweight campaign where you have to fight from Khasab down towards the Southern UAE
+recommended_player_faction: USA 1990
+recommended_enemy_faction: Georgia 2008
+miz: PG_March_to_Freedom.miz
+performance: 1
+recommended_start_date: 1990-01-01
+squadrons:
+  # Khasab
+  10:
+    - primary: TARCAP
+      seconary: air-to-air
+    - primary: SEAD
+      secondary: air-to-ground
+    - primary: STRIKE
+      secondary: air-to-ground
+    - primary: Refueling
+    - primary: AEW&C
+  # Ras Al Khaimah Intl
+  28:
+    - primary: TARCAP
+      secondary: air-to-air
+    - primary: STRIKE
+      secondary: air-to-ground
+    - primary: CAS
+      secondary: air-to-ground
+    - primary: SEAD
+      secondary: air-to-ground
+  # Dubai Intl
+  5:
+    - primary: TARCAP
+      secondary: air-to-air
+    - primary: STRIKE
+      secondary: air-to-ground
+    - primary: CAS
+      secondary: air-to-ground
+    - primary: SEAD
+      secondary: air-to-ground
+    - primary: AEW&C
+  # Al Bateen
+  23:
+    - primary: TARCAP
+      secondary: air-to-air
+    - primary: STRIKE
+      secondary: air-to-ground
+    - primary: CAS
+      secondary: air-to-ground
+    - primary: SEAD
+      secondary: air-to-ground
+  # Al Ain Intl
+  25:
+    - primary: TARCAP
+      secondary: air-to-air
+    - primary: STRIKE
+      secondary: air-to-ground
+    - primary: CAS
+      secondary: air-to-ground
+    - primary: SEAD
+      secondary: air-to-ground
